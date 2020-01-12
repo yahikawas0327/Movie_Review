@@ -22,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-
-![GITHUB]( https://www.google.com/search?q=%E5%9C%96%E7%89%87&rlz=1C1GIVA_enTW838TW838&sxsrf=ACYBGNRWqaq-cOHumZCnHsV_0Kq5XJhkuQ:1578851950010&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiolIjt0f7mAhUzNKYKHZcTCSwQ_AUoAXoECA0QAw&biw=1920&bih=937#imgrc=SV3o668Xufq2WM "米奇")
